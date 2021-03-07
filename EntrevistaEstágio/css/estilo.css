@@ -1,0 +1,174 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size: 1em;
+	font-family: "Arial", sans-serif;
+	background: #fff;
+}
+
+/*Layout*/
+.area-topo {
+	margin: 10px auto;
+	width: 600px;
+	height: 260px;
+	text-align: center;
+}
+
+.texto {
+	font-size: .9em;
+	position: absolute;
+	text-align: right;
+	top: 30px;
+	right: 410px;
+	color: #fff;
+}
+
+.img1 {
+	width: 600px;
+}
+
+.img2 {
+	position: absolute;
+	top: 150px;
+	left: 550px;
+}
+
+.img3 {
+	width: 200px;
+	height: 1px;
+	position: absolute;
+	top: 250px;
+	right: 600px;
+	background: #696969;
+	border-radius: 5px;
+	border: 1px solid #c0c0c0;
+}
+
+.img4 {
+	width: 210px;
+	height: 150px;
+	position: absolute;
+	top: 290px;
+	left: 400px;
+	background: #696969;
+	border-radius: 5px;
+}
+
+.titulo {
+	position: absolute;
+	width: 300px;
+	right: 480px;
+	margin-top: 20px;
+	color: #363636;
+}
+
+.img5 {
+	position: absolute;
+	top: 350px;
+	right: 440px;
+	background: #696969;
+}
+
+.conteudo {
+	margin: 230px auto;
+	width: 600px;
+	height: 700px;
+	text-align: center;
+	background: #DCDCDC;
+	border-radius: 5px;
+}
+
+.imgcont {
+	position: absolute;
+	margin-top: -60px;
+	width: 290px;
+	right: 530px;
+}
+
+.titcont {
+	padding: 90px 0 0 30px;
+	margin-top: 10px;
+	color: #4682B4;
+}
+
+.par1 {
+	width: 90%;
+	padding: 15px;
+	margin: 40px auto 0;
+	text-align: justify;
+	color: #fff;
+	background: #228B22;
+	box-shadow: 4px 4px 15px 10px #D3D3D3;
+}
+
+.par2 {
+	width: 90%;
+	padding: 15px;
+	margin: 20px auto;
+	color: #fff;
+	background: #FF6347;
+	text-align: justify;
+	box-shadow: 4px 4px 15px 10px #D3D3D3;
+}
+
+.par3 {
+	width: 90%;
+	padding: 15px;
+	margin: 20px auto;
+	background: #FFD700;
+	text-align: justify;
+	box-shadow: 4px 4px 15px 10px #D3D3D3;
+}
+.titpar {
+	font-weight: bold;
+}
+
+.button {
+	width: 130px;
+	height: 30px;
+	margin-bottom: 20px;
+	color: #fff;
+	background: #000080;
+	border: none;
+	border-radius: 10px;
+}
+
+.cont2 {
+	margin: 230px auto;
+	width: 600px;
+	height: 700px;
+	text-align: center;
+}
+
+.parcont2 {
+	width: 90%;
+	padding: 15px;
+	margin: 20px auto;
+	text-align: justify;
+}
+
+.parcont21 {
+	width: 90%;
+	padding: 15px;
+	margin: 20px auto;
+	margin-top: 20px;
+	text-align: justify;
+	font-weight: bold;
+}
+
+.contfim {
+	position: absolute;
+	margin: -200px 377px;
+	width: 600px;
+	height: 80px;
+	text-align: center;
+	background: #DCDCDC;
+}
+
+.rodape {
+	margin: 230px auto;
+	width: 600px;
+}
